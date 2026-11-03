@@ -1,0 +1,1 @@
+Once there was a developer learning Git. The developer practiced commits, branches and remotes. Eventually they became a Git master.
